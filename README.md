@@ -11,6 +11,8 @@ This project was developed as a university team project and is published as a
 portfolio demonstration. The public repository intentionally excludes
 biometric images, local databases, generated captures, trained model files,
 virtual environments, and other machine-specific artifacts.
+<img width="1275" height="591" alt="image" src="https://github.com/user-attachments/assets/1d933626-0492-4434-9a93-33e42b519baf" />
+<img width="671" height="702" alt="image" src="https://github.com/user-attachments/assets/6f6a121e-8555-47cb-94b0-e52c737e7454" />
 
 ## What is implemented
 
