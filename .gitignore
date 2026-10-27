@@ -1,0 +1,24 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Local surveillance data and biometric artifacts
+surveillance.db
+data/surveillance.db
+data/captures/*
+data/faces/*
+surveillance_project/models/*
+
+# Keep the public repository free of editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
